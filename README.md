@@ -1,3 +1,6 @@
+> [!WARNING]
+> I'm not using Discord anymore because of privacy concerns. So my plugins are unmaintained and provided "as is". Feel free to fork, fix, improve, etc...
+
 # IgnoreTerms
 
 Ignore Discord's new terms of service
